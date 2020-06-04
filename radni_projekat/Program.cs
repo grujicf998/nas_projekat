@@ -6,6 +6,7 @@ namespace radni_projekat
     {
         static void Main(string[] args)
         {
+            var a = 5;
             Console.WriteLine("Hello World!");
         }
     }
