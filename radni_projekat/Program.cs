@@ -8,6 +8,7 @@ namespace radni_projekat
         {
             var a = 5;
             var b = "jaja";
+            var c = 'a';
             Console.WriteLine("Hello World!");
         }
     }
