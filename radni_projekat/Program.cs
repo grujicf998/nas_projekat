@@ -27,6 +27,21 @@ namespace radni_projekat
             {
 
             }
+
+
+            if (a == 5)
+            {
+
+            }
+            if (a == 5)
+            {
+
+            }
+
+            if (a == 5)
+            {
+
+            }
             Console.WriteLine("Hello World!");
         }
     }
