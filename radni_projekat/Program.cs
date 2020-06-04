@@ -42,6 +42,10 @@ namespace radni_projekat
             {
 
             }
+
+
+            for () ;
+            for () ;
             Console.WriteLine("Hello World!");
         }
     }
