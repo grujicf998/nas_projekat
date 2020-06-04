@@ -12,6 +12,11 @@ namespace radni_projekat
             int broj = 10;
             int broj2 = 3;
             string c="";
+
+            if (a == 5)
+            {
+
+            }
             Console.WriteLine("Hello World!");
         }
     }
