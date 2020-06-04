@@ -11,6 +11,7 @@ namespace radni_projekat
             var c = 'a';
             int broj = 10;
             int broj2 = 3;
+            string c="";
             Console.WriteLine("Hello World!");
         }
     }
